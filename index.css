@@ -1,0 +1,38 @@
+body {
+    font-family: "Source Code Pro", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  .content {
+    margin: 20px;
+  }
+  .text {
+    column-fill: balance;
+  }
+  h1 {
+    font-size: 50px;
+    margin-bottom: -30px;
+  }
+  h3 {
+    color: blue;
+  } 
+
+  .social {
+    position: absolute;
+    bottom: 15px;
+  }
+  .neust img {
+    position: absolute;
+    height: 30vh;
+    width: 30vh;
+    margin-left: 167vh;
+    margin-top: 25vh;
+  }
+  .cict img {
+    position: absolute;
+    height: 20vh;
+    width: 20vh;
+    margin-left: 148vh;
+    margin-top: 35vh;
+  }
+ 
