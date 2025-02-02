@@ -18,7 +18,7 @@ body {
   } 
 
   .social {
-    position: absolute;
+    position: fixed;
     bottom: 15px;
   }
   .neust img {
